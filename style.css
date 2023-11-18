@@ -1,0 +1,172 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: black;
+    color: white;
+     
+}
+.header ul  {
+     display: flex;
+     justify-content: space-evenly;
+     align-items: center;
+     gap: 40px;
+     list-style-type: none;
+    
+}
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 30px;
+    
+}
+.nav input{
+    width: 230px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 4px;
+}
+.nav button{
+    width: 70px;
+    height: 40px;
+    margin-right: 20px;
+    border-radius: 5px;
+}
+.header ul a{
+    text-decoration: none;
+    color: white;
+}
+.banner{
+    text-align: center;
+}
+.banner-1 h1{
+    text-align: center;
+    margin: 10px;
+}
+.banner-1 img{
+    text-align: center;
+    width: 78vw;
+    margin-left: 168px;
+}
+.banner-2 h1{
+    text-align: center;
+    margin: 10px;
+}
+.banner-2 img{
+    text-align: center;
+    width: 78vw;
+    margin-left: 168px;
+}
+.banner-3 h1{
+    text-align: center;
+    margin: 20px;
+}
+.img-1{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    overflow-x: hidden;
+}
+.img-1 img{
+    width: 20vw;
+    gap: 20px;
+    border: 1px dotted black;
+    
+}
+.banner-4 h1{
+    text-align: center;
+    margin: 20px;
+}
+.img-2{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    overflow-x: hidden;
+}
+.img-2 img{
+    width: 20vw;
+    gap: 20px;
+    border: 1px dotted black;
+    
+}
+.banner-5 h1{
+    text-align: center;
+    margin: 20px;
+}
+.img-3{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    overflow-x: hidden;
+}
+.img-3 img{
+    width: 20vw;
+    gap: 20px;
+    border: 1px dotted black;
+    
+}
+.banner-6 h1{
+    text-align: center;
+    margin: 20px;
+}
+.img-4{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    overflow-x: hidden;
+}
+.img-4 img{
+    width: 20vw;
+    gap: 20px;
+    border: 1px dotted black;
+    
+    
+}
+.banner-7 h1{
+    text-align: center;
+    margin: 20px;
+}
+.img-5 img{
+    width: 80vw;
+    height: 100vh;
+    text-align: center;
+    margin-left: 150px;
+
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+    color: white;
+    height: 20vw;
+    padding: 20px;
+}
+.footer-1{
+    width: 40vw;
+}
+.footer-2 ul li{
+   list-style-type: none;
+}
+.footer-3 ul li{
+    list-style-type: none;
+ }
+ .footer-2 h3{
+    color: orangered;
+    margin-bottom: 20px;
+ }
+ .footer-3 h3{
+    color: orangered;
+    margin-bottom: 20px;
+ }
+ .footer-1 h3{
+    color: orangered;
+    margin-bottom: 20px;
+ }
